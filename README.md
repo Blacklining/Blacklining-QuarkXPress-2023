@@ -1,4 +1,4 @@
 # Blacklining-QuarkXPress-2023 users
 This build 1.3 dated 6th March 2023 is for QuarkXPress 2023 Mac will load in XPress 19 and 19.1 Intel or Silicon but it is not Silicon native and still requires Rosetta interpreter.
 Users of M1 and M2 Silicon Macs may experience a crash report warning after quitting QuarkXPress. This is due to memory allocation issues by Rosetta on some Macs with 8Mb RAM. This issue will go away when the update to Blacklining for native M1 and M2 Silicon is released in July.
-(Or sooner if any of you got off your 1996 Mac with Motorola 68000 processor version!)
+(Or sooner if some of you could update your Blacklining versions from 1997-2000 for Mac's with Motorola 68000 processors. You're not alone and yes, that includes you Darren with your Orange MacBook that can't open a current webpage, but manages to produce 000,000's of Blacklined directory pages every year. 
